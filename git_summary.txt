@@ -1,1 +1,13 @@
-ÿþ
+Daftar Branch : main , kontak
+
+daftar commit : 055de19 (HEAD -> main, origin/main) tugas git
+                f202596 (kontak) contoh
+                2fed853 contoh
+                b14a29d Contoh css
+                f9eecdb Berisi Contoh Portfolio
+                d3d8c4a Dasar HTML
+                379cd20 tugas commit file
+
+Isi file .gitignore : 
+
+remote : github
