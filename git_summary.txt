@@ -10,4 +10,5 @@ daftar commit : 055de19 (HEAD -> main, origin/main) tugas git
 
 Isi file .gitignore : 
 
-remote : github
+remote : origin  https://github.com/Tsaqif-26/Latihan-git.git (fetch)
+         origin  https://github.com/Tsaqif-26/Latihan-git.git (push)
